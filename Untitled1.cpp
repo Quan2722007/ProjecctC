@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main(){
-	printf("Helllo World!");
-	printf("7 byte brew");
+	int d=0;
+	printf("nhap so:");
+	scanf("%d",&d);
+	printf("%d",d);
 	return 0;
 }
